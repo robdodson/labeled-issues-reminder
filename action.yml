@@ -21,8 +21,8 @@ inputs:
   label:
     description: 'Name of the label to look for on closed issues.'
     required: true
-    default: 'content proposal'
+    default: 'reminder'
   message:
     description: 'Message to post on closed issues.'
     required: true
-    default: '@robdodson, do a barrel roll!'
+    default: 'Do a barrel roll!'
